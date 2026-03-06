@@ -1,3 +1,3 @@
-## 42 Gyeongsan Projects
+## 42Gyeongsan Projects
 
-Welcome to the official student project repositories of **42 Gyeongsan**.
+Welcome to the official student project repositories of **42Gyeongsan**.
